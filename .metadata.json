@@ -1,0 +1,14 @@
+[
+  {
+    "package": "monobin",
+    "oncran": true
+  },
+  {
+    "package": "monobinShiny",
+    "oncran": true
+  },
+  {
+    "package": "PDtoolkit",
+    "oncran": true
+  }
+]
