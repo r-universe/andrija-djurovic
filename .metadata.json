@@ -1,5 +1,9 @@
 [
   {
+    "package": "LGDtoolkit",
+    "oncran": true
+  },
+  {
     "package": "monobin",
     "oncran": true
   },
