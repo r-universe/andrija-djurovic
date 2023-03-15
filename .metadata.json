@@ -1,18 +1,18 @@
 [
   {
-    "package": "LGDtoolkit",
-    "oncran": true
-  },
-  {
     "package": "monobin",
     "oncran": true
   },
   {
-    "package": "monobinShiny",
+    "package": "LGDtoolkit",
     "oncran": true
   },
   {
     "package": "PDtoolkit",
+    "oncran": true
+  },
+  {
+    "package": "monobinShiny",
     "oncran": true
   }
 ]
