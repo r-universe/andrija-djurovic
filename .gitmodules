@@ -3,23 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "monobin"]
-	path = monobin
-	url = https://github.com/andrija-djurovic/monobin
-	shallow = true
-	registered = true
 [submodule "LGDtoolkit"]
 	path = LGDtoolkit
 	url = https://github.com/andrija-djurovic/lgdtoolkit
 	shallow = true
 	registered = true
-[submodule "PDtoolkit"]
-	path = PDtoolkit
-	url = https://github.com/andrija-djurovic/pdtoolkit
+[submodule "monobin"]
+	path = monobin
+	url = https://github.com/andrija-djurovic/monobin
 	shallow = true
 	registered = true
 [submodule "monobinShiny"]
 	path = monobinShiny
 	url = https://github.com/andrija-djurovic/monobinshiny
+	shallow = true
+	registered = true
+[submodule "PDtoolkit"]
+	path = PDtoolkit
+	url = https://github.com/andrija-djurovic/pdtoolkit
 	shallow = true
 	registered = true
