@@ -5,12 +5,12 @@
 [submodule "LGDtoolkit"]
 	path = LGDtoolkit
 	url = https://github.com/andrija-djurovic/lgdtoolkit
+[submodule "PDtoolkit"]
+	path = PDtoolkit
+	url = https://github.com/andrija-djurovic/pdtoolkit
 [submodule "monobin"]
 	path = monobin
 	url = https://github.com/andrija-djurovic/monobin
 [submodule "monobinShiny"]
 	path = monobinShiny
 	url = https://github.com/andrija-djurovic/monobinshiny
-[submodule "PDtoolkit"]
-	path = PDtoolkit
-	url = https://github.com/andrija-djurovic/pdtoolkit
